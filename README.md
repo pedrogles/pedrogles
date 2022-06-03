@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedro Gabriel,
-- 👀 I’m interested in front-end Development,
+- 👀 I’m interested in Front-end Development,
 - 🌱 I’m currently learning HTML, CSS, SCSS, JavaScript, React, Python and Java, 
 - 💞️ I’m looking to collaborate on projects with Web development.
 - 📫 E-mail: pedrogabriellima@gmail.com
